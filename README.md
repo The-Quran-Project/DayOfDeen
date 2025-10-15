@@ -14,7 +14,7 @@ Now they show, `Halal Ads`.
 But at the end of the day, `ADS are ADS` that's it.
 <br><br>
 
-However, comparing to others, they are *indeed* doing a better job at it. **_"Comparing to others"_**
+However, compared to others, they are *indeed* doing a better job at it. **_"Compared to others"_**
 
 Other similar apps like, `WeMuslim`, `নামাজের সময়সূচী`, `Muslim Pro` shows totally unacceptable ads. And literally forces you to _"Pay a subscription fee"_.
 But, we say `No` to all of them!
