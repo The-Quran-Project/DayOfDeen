@@ -12,10 +12,19 @@ Unnecessary junks, useless features, unskipable ads. I'm very, very, very disapp
 Now they show, `Halal Ads`.
 
 But at the end of the day, `ADS are ADS` that's it.
+<br><br>
+
+However, comparing to others, they are *indeed* doing a better job at it. **_"Comparing to others"_**
+
+Other similar apps like, `WeMuslim`, `নামাজের সময়সূচী`, `Muslim Pro` shows totally unacceptable ads. And literally forces you to _"Pay a subscription fee"_.
+But, we say `No` to all of them!
+
+Before we make a stable version of `Day of Deen` app, you should use **Muslim Day**. After we're finished, you can decide which one you prefer the most. (`I'm gonna prefer mine, of course. Cuz I made it!`)
+
 <br><br><br><br>
 So here I am, promising to you all, if I stay alive, and able to code, I will definitely make a simpler, ad free, open-source alternative to all the other Prayer Time app, **InShaAllah**.
 
-> I would start right away, but I have some very important exams coming soon. Those will change the course of my life. Therefore, I can't start it right now.
+> I would've started right away, but I have some very important exams coming soon. Those will change the course of my life. Therefore, I can't start it right now.
 > But, here's the repo. And I will come back, InShaAllah.
 
 <br>
